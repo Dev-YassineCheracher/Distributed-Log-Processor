@@ -20,7 +20,7 @@ Distributed Log Processor is a suite of microservices designed for efficient log
 ### Installation
 Clone the repository:
 ```bash
-git clone [repository URL]
+git clone https://github.com/Dev-YassineCheracher/Distributed-Log-Processor.git
 cd distributed-log-processor
 ```
 ## License

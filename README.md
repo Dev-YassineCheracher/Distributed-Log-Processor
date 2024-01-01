@@ -12,8 +12,8 @@ Distributed Log Processor is a suite of microservices designed for efficient log
 
 ### Prerequisites
 - Java JDK 11 or later
-- Maven or Gradle
-- Docker (optional, for containerized setup)
+- Maven
+- Docker
 - Apache Kafka
 - PostgreSQL
 
